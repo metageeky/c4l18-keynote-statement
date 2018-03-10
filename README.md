@@ -145,6 +145,7 @@ unprofessional behavior.
 * Mark Phillips
 * Michael B. Klein
 * John Jung
+* Katherine Deibel
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
